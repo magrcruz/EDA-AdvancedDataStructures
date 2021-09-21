@@ -128,7 +128,7 @@ void Experimento::printTabla(){
 		total += tabla[i];
 	}
 	cout << "1.0 -> " << tabla[10] << endl ;
-	cout << "Total: " << total << endl;
+	//cout << "Total: " << total << endl;
 }
 
 void Experimento::printPts() {
